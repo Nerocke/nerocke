@@ -10,7 +10,7 @@ Student in IT and Web development
 * 🚀  I'm currently working on [a Projet named "HelpOrt"](http://https://github.com/ort-montreuil)
 * 🧠  I'm learning Java, PHP, Python, HTML, CSS, JSS, and using Frameworks
 * 🤝  I'm open to collaborating on interisting projects or stages
-* ⚡  Bats are cools but everyone is scared of them
+* 🦇  Bats are cools but everyone is scared of them
 
 ### Skills
 
