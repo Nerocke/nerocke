@@ -1,11 +1,6 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Ethan Allouche
-
-
-
-
-
-
+Hi!  ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Ethan Allouche 
 ======================================================================================================================================
+![](https://64.media.tumblr.com/23cca5f77f49b8257ae55043f1c2c892/b969b15ddf7de5aa-8f/s540x810/4ba598aebbdb6398976a1ed29808449f5d1695c2.gif)
 
 Student in IT and Web development
 ---------------------------------
